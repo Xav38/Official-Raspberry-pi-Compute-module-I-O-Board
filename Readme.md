@@ -4,4 +4,4 @@ Fisrt of all, for people like me that didn't find the most basic, meaning the si
 
 I used the official Raspberry Pi documentation and files from that link : https://github.com/raspberrypi/documentation/blob/master/hardware/computemodule/designfiles.md
 
-I opened the brd file on Orcad Viewer and generate the PDF. I did that in the perspective of making the fritzing part of this CMIO Board.
+I opened the brd file on Orcad Viewer and generate the PDF. I also created the SVG file in Inkscape to make the fritzing part.
